@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm currently pursuing **B.Tech in Materials Engineering at IIT Jammu (Batch 2027)**
+- 🎓 I'm currently pursuing **B.Tech in Materials Engineering at IIT Jammu (Batch 2028)**
 - 🌱 Currently learning **Data Science, Machine Learning, and AI Workflows**
 - 🤖 Building real-world AI Agents using **n8n, Python**, and **local LLMs (Ollama, DeepSeek)**
 - 📊 Passionate about **Data Visualization**, **Automation**, and **Problem Solving**
