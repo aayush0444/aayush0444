@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Data Science, Machine Learning, and AI Workflows**
 - 🤖 Building real-world AI Agents using **n8n, Python**, and **local LLMs (Ollama, DeepSeek)**
 - 📊 Passionate about **Data Visualization**, **Automation**, and **Problem Solving**
-- 📫 Reach me at: [aayushkumar5777@gmail.com](mailto:aayushkumar5777@gmail.com)(mailto:2024umt0157@iitjammu.ac.in)
+- 📫 Reach me at: [aayushkumar5777@gmail.com](mailto:aayushkumar5777@gmail.com) mailto:2024umt0157@iitjammu.ac.in
 - ⚡ Fun fact: I automate tasks to save time and build things to learn fast!
 
 ---
