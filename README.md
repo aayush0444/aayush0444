@@ -69,5 +69,5 @@
 
 ### 🌐 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aayush-kumar-redhu-965285371/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aayush-kumar-b81794320/)
 - 💻 [GitHub](https://github.com/aayush0444)
