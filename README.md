@@ -60,6 +60,7 @@
 
 ### 📌 Pinned Projects
 
+- 🔗 [IPL Auction Dashboard- Power BI](https://github.com/aayush0444/IPL-Auction-Dashboard)
 - 🔗 [Data Cleaning Project](https://github.com/aayush0444/Data_cleaning_and_insights)
 - 🔗 [Finance Dashboard - Power BI](https://github.com/aayush0444/Finance-Dashboard)
 - 🔗 [Pizza Sales Dashboard - Power BI](https://github.com/aayush0444/Pizza-Dashboard)
