@@ -38,7 +38,7 @@ My focus lies in transforming complex datasets into structured understanding and
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+
 
 #### Tools & Platforms
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi)
