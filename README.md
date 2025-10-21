@@ -1,20 +1,38 @@
-<h1 align="center">Hi 👋, I'm Aayush Kumar</h1>
-<h3 align="center">An aspiring Data Scientist and AI Automation enthusiast from IIT Jammu</h3>
+<h1 align="center">Aayush Kumar</h1>
+<h3 align="center">Data Science | Generative AI | Intelligent Systems | IIT</h3>
 
 ---
 
-### 🚀 About Me
+### Overview
 
-- 🎓 I'm currently pursuing **B.Tech at IIT Jammu (Batch 2028)**
-- 🌱 Currently learning **Data Science, Machine Learning, and AI Workflows**
-- 🤖 Building real-world AI Agents using **n8n, Python**, and **local LLMs (Ollama, DeepSeek)**
-- 📊 Passionate about **Data Visualization**, **Automation**, and **Problem Solving**
-- 📫 Reach me at: [aayushkumar5777@gmail.com](mailto:aayushkumar5777@gmail.com) 2024umt0157@iitjammu.ac.in
-- ⚡ Fun fact: I automate tasks to save time and build things to learn fast!
+I build intelligent systems that merge Data Science and Generative AI to create automation, reasoning, and insight-driven workflows.  
+My focus lies in transforming complex datasets into structured understanding and actionable intelligence.
 
 ---
 
-### 🛠️ Skills & Technologies
+### Core Focus
+
+- Developing AI systems for automated data analysis and insight generation  
+- Integrating Generative AI into real-world analytical workflows  
+- Building explainable and data-centric intelligence frameworks  
+- Crafting analytical dashboards and visualization systems for clarity and precision  
+
+---
+
+### Current Work
+
+- **Auto Summarizer – AI Dataset Analyzer**  
+  A generative AI-powered tool for automated EDA, statistical insight extraction, and structured summarization using Python and Gemini API.
+
+- **AI Analyst Framework**  
+  A local intelligent reasoning system for understanding data context and generating adaptive reports powered by LLMs.
+
+- **Analytical Visualization Projects**  
+  Creating Power BI and Python-based visualization dashboards focused on trend analysis and data storytelling.
+
+---
+
+### Technologies
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
@@ -23,8 +41,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 
 #### Tools & Platforms
-![n8n](https://img.shields.io/badge/-n8n-FE8040?style=flat-square&logo=n8n)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
@@ -35,10 +53,11 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2D6DB6?style=flat-square&logo=python)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=llama)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayush0444&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=false&title_color=8e44ad&icon_color=8e44ad&text_color=ffffff" alt="GitHub Stats" />
@@ -50,7 +69,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush0444&theme=github-compact&bg_color=000000&color=8e44ad&line=8e44ad&point=ffffff" />
@@ -58,17 +77,21 @@
 
 ---
 
-### 📌 Pinned Projects
+### Featured Projects
 
-- 🔗 [IPL Auction Dashboard- Power BI](https://github.com/aayush0444/IPL-Auction-Dashboard)
-- 🔗 [Data Cleaning Project](https://github.com/aayush0444/Data_cleaning_and_insights)
-- 🔗 [Finance Dashboard - Power BI](https://github.com/aayush0444/Finance-Dashboard)
-- 🔗 [Pizza Sales Dashboard - Power BI](https://github.com/aayush0444/Pizza-Dashboard)
-- 🔗 [Full-Fledged Calculator - Python GUI](https://github.com/aayush0444/-Calculator-Python-with-GUI)
+- [Auto Summarizer – AI Dataset Analyzer](https://github.com/aayush0444/Auto-summarizer-using-Gemini)  
+ 
+- [IPL Auction Dashboard](https://github.com/aayush0444/IPL-Auction-Dashboard)  
+
 
 ---
 
-### 🌐 Connect With Me
+### Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aayush-kumar-b81794320/)
-- 💻 [GitHub](https://github.com/aayush0444)
+- [LinkedIn](https://www.linkedin.com/in/aayush-kumar-b81794320/)  
+- [GitHub](https://github.com/aayush0444)  
+- [Email](mailto:aayushkumar5777@gmail.com)
+
+---
+
+> “Intelligence is not automation; it’s the ability to derive clarity from complexity.”
