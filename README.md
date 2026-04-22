@@ -79,9 +79,9 @@ My focus lies in transforming complex datasets into structured understanding and
 
 ### Featured Projects
 
-- [Auto Summarizer – AI Dataset Analyzer](https://github.com/aayush0444/Auto-summarizer-using-Gemini)  
+- [Notion Clip]([(https://github.com/aayush0444/Notion-Clips))  
  
-- [IPL Auction Dashboard](https://github.com/aayush0444/IPL-Auction-Dashboard)  
+- [Habitick Moblie APP](https://github.com/aayush0444/habit-tracker-mobile-app)  
 
 
 ---
