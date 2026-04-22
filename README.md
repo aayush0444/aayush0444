@@ -79,7 +79,7 @@ My focus lies in transforming complex datasets into structured understanding and
 
 ### Featured Projects
 
-- [Notion Clip]([(https://github.com/aayush0444/Notion-Clips))  
+- [Notion Clip](https://github.com/aayush0444/Notion-Clips)  
  
 - [Habitick Moblie APP](https://github.com/aayush0444/habit-tracker-mobile-app)  
 
