@@ -81,7 +81,9 @@ My focus lies in transforming complex datasets into structured understanding and
 
 - [Notion Clip](https://github.com/aayush0444/Notion-Clips)  
  
-- [Habitick Moblie APP](https://github.com/aayush0444/habit-tracker-mobile-app)  
+- [Habitick Moblie APP](https://github.com/aayush0444/habit-tracker-mobile-app)
+
+- [Rite-Way Website](https://github.com/aayush0444/Rite-way-Website) [Link:](https://www.ritewayscales.in/)
 
 
 ---
